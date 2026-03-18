@@ -4,12 +4,6 @@ This repository contains a short research paper exploring the structural limits 
 
 ## Motivation
 
-There is growing momentum around self improving agents:
-
-- Meta is investing heavily in autonomous agents  
-- Aravind Srinivas has discussed recursive self improvement as a path toward AGI  
-- Former DeepMind researchers recently raised funding to build recursively self improving systems  
-
 The common assumption is simple:
 
 If agents keep improving themselves, reliability problems should eventually disappear.
